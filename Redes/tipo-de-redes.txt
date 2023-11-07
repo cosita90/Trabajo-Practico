@@ -1,0 +1,6 @@
+Tipo de red por topologia:
+
+LAN= red de area local, es la red que se utiliza generalmente en hogares y lugares de trabajo. no superan por lo general los 100mts
+MAN= red de metropolitana, estas redes son de cobertura mas amplia, cubren ciudades
+PAN= red de area ampliada, estas redes pueden cubrir paises y hasta continentes
+WAN= red de area global, redes de espectro mundial, ejemplo INTERNET
